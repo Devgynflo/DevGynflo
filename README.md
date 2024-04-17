@@ -38,4 +38,4 @@ learn, to understand, to exchange, to look for, to convince but also a dad, a ga
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gynflo)](https://github.com/anuraghazra/github-readme-stats)
+
